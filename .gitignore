@@ -1,0 +1,5 @@
+# venv file
+myvenv
+
+# checkpoints
+.ipynb_checkpoints
